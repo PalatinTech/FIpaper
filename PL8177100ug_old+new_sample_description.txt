@@ -1,0 +1,15 @@
+Sample	Treatment	ID	dir	subdir
+GR2_2	Placebo	GR22	/mnt3/rat_colon_round2/results_individual_samples_cellbender/	GR2_2_reanalysis
+GR2_3	Placebo	GR23	/mnt2/rat_colon_scdata_UC/results_individual_samples_filtered/	GR2_3
+GR2_4	Placebo	GR24	/mnt3/rat_colon_round2/results_individual_samples_cellbender/	GR2_4_reanalysis
+GR5_1	PL8177-100ug	GR51	/mnt3/rat_colon_round2/results_individual_samples_cellbender/	GR5_1_reanalysis
+GR5_1old	PL8177-100ug	GR51old	/mnt2/rat_colon_scdata_UC/results_individual_samples_filtered/	GR5_1
+GR5_3	PL8177-100ug	GR53	/mnt2/rat_colon_scdata_UC/results_individual_samples_filtered/	GR5_3
+GR5_4	PL8177-100ug	GR54	/mnt2/rat_colon_scdata_UC/results_individual_samples_filtered/	GR5_4
+GR5_5	PL8177-100ug	GR55	/mnt2/rat_colon_scdata_UC/results_individual_samples_filtered/	GR5_5
+GR1_2	Sham	GR12	/mnt2/rat_colon_scdata_UC/results_individual_samples_filtered/	GR1_2
+GR1_3	Sham	GR13	/mnt2/rat_colon_scdata_UC/results_individual_samples_filtered/	GR1_3
+GR1_5	Sham	GR15	/mnt2/rat_colon_scdata_UC/results_individual_samples_filtered/	GR1_5
+GR4_1	PL8177-50ug	GR41	/mnt3/rat_colon_round2/results_individual_samples_cellbender/	GR4_1_reanalysis
+GR4_3	PL8177-50ug	GR43	/mnt3/rat_colon_round2/results_individual_samples_cellbender/	GR4_3_reanalysis
+GR4_4	PL8177-50ug	GR44	/mnt3/rat_colon_round2/results_individual_samples_cellbender/	GR4_4_reanalysis
